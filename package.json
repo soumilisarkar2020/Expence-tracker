@@ -1,0 +1,29 @@
+{
+  "name": "expence-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite bulid",
+    "test": "echo \"Error: no tast specified\"&& exit 1"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "lucide-react": "^1.33.0",
+    "mongoose": "^9.9.4",
+    "nodemon": "^3.1.14",
+    "recharts": "^3.10.1",
+    "tailwindcss": "^4.3.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.0"
+  }
+}
